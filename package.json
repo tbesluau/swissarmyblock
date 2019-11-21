@@ -1,7 +1,7 @@
 {
-  "name": "sampleblock",
+  "name": "swissarmyblock",
   "version": "0.0.1",
-  "description": "Sample Salesforce Marketing Cloud Content Builder Block",
+  "description": "A multifunctional block for email",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tbesluau/sampleblock.git"
+    "url": "git+https://github.com/tbesluau/swissarmyblock.git"
   },
   "author": "Thomas Besluau",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tbesluau/sampleblock/issues"
+    "url": "https://github.com/tbesluau/swissarmyblock/issues"
   },
-  "homepage": "https://github.com/tbesluau/sampleblock#readme",
+  "homepage": "https://github.com/tbesluau/swissarmyblock#readme",
   "dependencies": {
     "@salesforce-ux/design-system": "^2.5.2",
     "blocksdk": "^1.0.0",
